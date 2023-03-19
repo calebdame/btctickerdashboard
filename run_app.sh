@@ -1,5 +1,5 @@
 #!/bin/bash
-pip install pytz pycoingecko dash plotly dash-core-components dash-html-components dash-table
+pip install pytz pycoingecko dash plotly dash-core-components dash-html-components dash-table ipywidgets
 # Run the Python script
 python3 display_script.py &
 
